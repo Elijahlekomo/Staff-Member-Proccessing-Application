@@ -1,1 +1,6 @@
-__About Project__
+## __About the project__  
+
+Built project with:    
+C++  
+CMake  
+QT
